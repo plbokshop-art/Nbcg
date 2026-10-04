@@ -1,0 +1,6 @@
+{
+  "name": "Project Vanguard",
+  "description": "Tactical competitive browser-based 3D FPS with server-authoritative matchmaking, 3D player preview, lobby, party system, and complete round lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
